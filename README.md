@@ -8,7 +8,7 @@ Welcome to my CS50x learning journey. This repository documents my progress thro
 
 - [x] Week 0: Scratch
 - [x] Week 1: C
-- [ ] Week 2: Arrays
+- [x] Week 2: Arrays
 - [ ] Week 3: Algorithms
 - [ ] Week 4: Memory
 - [ ] Week 5: Data Structures
@@ -28,3 +28,6 @@ Covered fundamental computer science concepts like binary, algorithms, and compu
 
 ### Week 1: C
 Learned the basics of C syntax, data types, loops, conditionals, and compilation using the CLI. Completed the "Mario (More)" pyramid problem and the "Credit" card validation program using Luhn's Algorithm.
+
+### Week 2: Arrays
+Learned how arrays store data, how strings work as character arrays, and how to use command-line arguments and debugging tools. Completed "Scrabble" for word scoring, "Readability" using the Coleman-Liau index, and "Substitution" to encrypt text.
