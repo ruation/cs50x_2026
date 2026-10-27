@@ -9,9 +9,9 @@ Welcome to my CS50x learning journey. This repository documents my progress thro
 - [x] Week 0: Scratch
 - [x] Week 1: C
 - [x] Week 2: Arrays
-- [ ] Week 3: Algorithms
-- [ ] Week 4: Memory
-- [ ] Week 5: Data Structures
+- [x] Week 3: Algorithms
+- [x] Week 4: Memory
+- [x] Week 5: Data Structures
 - [ ] Week 6: Python
 - [ ] Week 7: SQL
 - [ ] Week 8: HTML, CSS, JavaScript
@@ -31,3 +31,12 @@ Learned the basics of C syntax, data types, loops, conditionals, and compilation
 
 ### Week 2: Arrays
 Learned how arrays store data, how strings work as character arrays, and how to use command-line arguments and debugging tools. Completed "Scrabble" for word scoring, "Readability" using the Coleman-Liau index, and "Substitution" to encrypt text.
+
+### Week 3: Algorithms
+Studied searching and sorting algorithms, asymptotic notation (Big $O$, $\Omega$, $\Theta$), custom data structures (`struct`), and recursion. Completed "Sort" to analyze sorting algorithms, "Plurality," and "Tideman" to simulate ranked-choice elections.
+
+### Week 4: Memory
+Explored pointers, hexadecimal notation, memory addresses, dynamic memory allocation (`malloc` and `free`), and file manipulation in C. Completed "Volume" to modify audio files, "Filter (More)" to apply image filters and edge detection, and "Recover" to restore deleted JPEGs.
+
+### Week 5: Data Structures
+Learned how to build and manage dynamic data structures in C, including linked lists, binary search trees, hash tables, and tries. Completed "Inheritance" to simulate genetic blood type inheritance and "Speller" to implement a fast spell-checker using a hash table.
